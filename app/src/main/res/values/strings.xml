@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chat app</string>
+    <string name="title">Messenger</string>
+    <string name="login">Login</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="register_a_new_account">Create a New Account</string>
+    <string name="add">Add</string>
+    <string name="full_name">Full name</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="select_user">Select User</string>
+    <string name="online">Online</string>
+</resources>
